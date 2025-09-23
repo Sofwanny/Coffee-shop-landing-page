@@ -23,7 +23,7 @@ header {
     background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%23D2691E" width="1200" height="600"/><circle fill="%23F4A460" cx="300" cy="150" r="40"/><circle fill="%23F4A460" cx="800" cy="200" r="35"/><circle fill="%23F4A460" cx="600" cy="400" r="45"/></svg>');
     background-size: contain;
     background-position: center;
-        height: 100vh;  /* This makes it 100% of viewport height */
+        height: 100vh;  
    text-align: center;
    display: flex;
    align-items: center;
